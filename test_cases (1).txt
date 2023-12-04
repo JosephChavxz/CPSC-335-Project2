@@ -1,0 +1,58 @@
+test_case1 = """
+N = 4 
+Stocks_and_values = [ [1, 2], [4, 3], [3, 6], [6, 7] ]
+Amount = 12
+"""
+test_case2 = """
+N = 4 
+Stocks_and_values = [ [3, 2], [4, 3], [5, 3], [6, 7] ]
+Amount = 10
+"""
+
+test_case3 = """
+N = 10 
+Stocks_and_values = [ [10, 10], [9, 10], [8, 10], [7, 10], [6, 10] ]
+Amount = 10
+"""
+
+test_case4 = """
+N = 9 
+Stocks_and_values = [ [8, 10], [7, 10], [6, 10] ]
+Amount = 10
+"""
+
+test_case5 = """
+N = 8 
+Stocks_and_values = [ [7, 10], [6, 10], [5, 10], [4, 10], [3, 10], [2, 10] ]
+Amount = 10
+"""
+
+test_case6 = """
+N = 7 
+Stocks_and_values = [ [7, 10], [6, 10], [5, 10], [4, 10], [3, 10], [2, 10], [1, 10] ]
+Amount = 10
+"""
+
+test_case7 = """
+N = 6 
+Stocks_and_values = [ [6, 10], [5, 10] ]
+Amount = 10
+"""
+
+test_case8 = """
+N = 5
+Stocks_and_values = [ [5, 10], [4, 10], [3, 10], [2, 10], [1, 10] ]
+Amount = 10
+"""
+
+test_case9 = """
+N = 4
+Stocks_and_values = [ [4, 10], [3, 10], [2, 10], [1, 10] ]
+Amount = 10
+"""
+
+test_case10 = """
+N = 3
+Stocks_and_values = [ [3, 10], [2, 10], [1, 10] ]
+Amount = 10
+"""
